@@ -1,6 +1,6 @@
-program
+*main.c
 Makefile
-0-main.c
-.vscode
-Makefile
-
+14-balance
+15-full
+16-perfect
+17-sibling
